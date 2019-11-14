@@ -1,12 +1,11 @@
 import turtle 
 from turtle import *
-def triangle(x, y, size, colour, angle)
+def triangle(x, y, size, colour, angle):
     # TODO: (Olya)
     
     pass
-def square(x, y, size, color, angle)
+def square(x, y, size, color, angle):
     # TODO: (Arina)
-    def square(x, y, size, colour, angle):
     turtle.goto(x, y)
     turtle.left(angle)
     turtle.pendown()
@@ -21,7 +20,6 @@ def square(x, y, size, color, angle)
     turtle.forward(size)
     turtle.left(90)
     turtle.penup()
-    pass
     pass
 def main():
     # TODO: (Olya) figure 1
