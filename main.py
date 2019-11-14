@@ -1,4 +1,4 @@
-import turtle 
+import turtle  
 from turtle import *
 def triangle(x, y, size, colour, angle):
     # TODO: (Olya)
