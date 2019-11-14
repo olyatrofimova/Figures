@@ -1,12 +1,16 @@
-#Маша рисует квадрат
-#Маша рисует журавля
-#Маша рисует синицу
-#Арина рисует параллелограмм
-#Арина рисует медведя
-#Арина рисует страуса
-#Ириша рисует треугольник
-#Ириша рисует кошку
-#Ириша рисует лягушку
-#Оля рисует круг
-#Оля рисует цыпленка
-#Оля рисует утку
+def triangle(x, y, size, colour, angle)
+    # TODO: (Olya)
+    pass
+def square(x, y, size, color, angle)
+    # TODO: (Arina)
+    pass
+def main():
+    # TODO: (Olya) figure 1
+    pass
+    # TODO: (Olya) figure 2
+    pass
+    # TODO: (Arina) figure 3
+    pass
+    # TODO: (Arina) figure 4
+    pass
+    
