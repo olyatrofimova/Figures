@@ -6,6 +6,22 @@ def triangle(x, y, size, colour, angle)
     pass
 def square(x, y, size, color, angle)
     # TODO: (Arina)
+    def square(x, y, size, colour, angle):
+    turtle.goto(x, y)
+    turtle.left(angle)
+    turtle.pendown()
+    turtle.pencolor(color)
+    turtle.left(angle)
+    turtle.forward(size)
+    turtle.left(90)
+    turtle.forward(size)
+    turtle.left(90)
+    turtle.forward(size)
+    turtle.left(90)
+    turtle.forward(size)
+    turtle.left(90)
+    turtle.penup()
+    pass
     pass
 def main():
     # TODO: (Olya) figure 1
